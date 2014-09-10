@@ -1,0 +1,9 @@
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\bin\Debug\stepen_dvoiki.exe.config
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\obj\Debug\stepen_dvoiki.csprojResolveAssemblyReference.cache
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\obj\Debug\stepen_dvoiki.Form1.resources
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\obj\Debug\stepen_dvoiki.Properties.Resources.resources
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\obj\Debug\stepen_dvoiki.csproj.GenerateResource.Cache
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\bin\Debug\stepen_dvoiki.exe
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\bin\Debug\stepen_dvoiki.pdb
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\obj\Debug\stepen_dvoiki.exe
+d:\users\toma\documents\visual studio 2012\Projects\stepen_dvoiki\stepen_dvoiki\obj\Debug\stepen_dvoiki.pdb
